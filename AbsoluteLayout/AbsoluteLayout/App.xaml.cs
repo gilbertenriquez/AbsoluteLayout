@@ -10,7 +10,7 @@ namespace AbsoluteLayout
         {
             InitializeComponent();
 
-            MainPage = new AbsoluteLayout2();
+            MainPage = new MainPage();
             //same for stacklayout and gridlayout just change the mainpage to run exercise 2/Absolutelayout2
         }
 
